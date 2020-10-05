@@ -1,0 +1,89 @@
+.you {
+  font-family: Arial;
+  left: 117px;
+  position: relative;
+  
+}
+
+.tube {
+  background-color: red;
+  color: white;
+  font-family: arial;
+  width: 75px;
+  border-radius: 17%;
+  position: relative;
+  left: 175px;
+  bottom: 57px
+}
+
+input[type=text]{
+  border-style:none;
+  font-size: 18px;
+  position: relative;
+  left: 320px;
+  bottom: 108px;
+  color: beige;
+  width: 40%
+
+}
+
+.upload {
+  font-family: arial;
+  position: relative;
+  text-align: right;
+  font-size: 16px;
+  color: rgb(214, 214, 208);
+  bottom: 150px;
+  right:30px
+}
+
+.guide{
+  font-family: arial;
+  position: relative;
+  font-size: 10px;
+  color: rgb(214, 214, 208);
+  bottom:100px;
+  left: 120px
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  font-family:arial;
+  color:rgb(214, 214, 208);
+  right: 100px;
+  position: relative;
+  left: 100px;
+  bottom: 110px;
+  line-height: 200%
+}
+
+.image {
+  position: relative;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  bottom: 280px;
+  border-bottom: 5px solid red;
+}
+
+.title {
+  font-family: arial;
+  position: relative;
+  text-align:center;
+  bottom: 285px;
+  right: 307px
+}
+
+.viewers {
+  font-family: optima, sans-serif;
+  position: relative;
+  text-align: right;
+  bottom: 355px;
+  right: 400px;
+  font-size: 30px;
+  border-bottom: 5px solid rgb(11, 214, 21);
+  border-width: thin;
+}
